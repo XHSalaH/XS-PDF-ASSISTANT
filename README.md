@@ -2,9 +2,6 @@
 
 A desktop application built with Python and Tkinter (using ttk themes) for splitting and merging specific page ranges from a source PDF into multiple, organized output PDF files.
 
-![App Screenshot](placeholder_screenshot.png)
-*<(Replace this placeholder_screenshot.png with an actual screenshot of the application)>*
-
 ## Features
 
 *   **Source & Destination:** Select a source PDF file and a destination folder for output.
